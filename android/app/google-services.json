@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "538059047131",
+    "project_id": "songs-c93fd",
+    "storage_bucket": "songs-c93fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538059047131:android:433d8e71238e85e4feccfe",
+        "android_client_info": {
+          "package_name": "com.musicplayer_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538059047131-c5g5h5o65ri4dh3kap8ip5l5pscvjbhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMzf8B6JxLZ2t77PwefE1wmD71FWqbOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538059047131-c5g5h5o65ri4dh3kap8ip5l5pscvjbhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538059047131:android:9f36b4708e8a0cf5feccfe",
+        "android_client_info": {
+          "package_name": "com.musicplayerloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538059047131-c5g5h5o65ri4dh3kap8ip5l5pscvjbhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMzf8B6JxLZ2t77PwefE1wmD71FWqbOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538059047131-c5g5h5o65ri4dh3kap8ip5l5pscvjbhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
